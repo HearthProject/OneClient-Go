@@ -1,0 +1,7 @@
+{
+  "app_name": "Oneclient",
+  "icon_path_darwin": "resources/oneclient.icns",
+  "icon_path_linux": "resources/oneclient.png",
+  "icon_path_windows": "resources/oneclient.ico",
+  "output_path": "output"
+}

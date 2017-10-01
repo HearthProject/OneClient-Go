@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+/test/
+/vendor/
+/output/
+*.syso
+bind.go
+.sass-cache
+/resources/app/static/css/
